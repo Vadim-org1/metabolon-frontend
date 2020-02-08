@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid dodgerblue;
+  padding: 10px;
+}
